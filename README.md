@@ -1,6 +1,6 @@
 # Dharmik Vyas | Developer Portfolio
 
-A premium, highly-interactive developer portfolio built from scratch for **Dharmik Vyas**, featuring a sleek monochrome dark design with balanced lemon yellow accents, smooth hover transitions, and responsive mobile layouts.
+A premium, highly-interactive developer portfolio built from scratch , featuring a sleek monochrome dark design with balanced lemon yellow accents, smooth hover transitions, and responsive mobile layouts.
 
 ## 🚀 Features
 
